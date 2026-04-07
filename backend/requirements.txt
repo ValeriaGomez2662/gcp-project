@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn==1.6.1
+joblib==1.4.2
+google-cloud-storage
+google-cloud-bigquery
+google-genai
+pydantic
+python-multipart
+db-dtypes 
+pyarrow
